@@ -1,2 +1,4 @@
 # paskaita
-tekstas
+
+
+sss
